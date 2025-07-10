@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LeFv5tm5kg0=",
+  "success": true,
+  "projectFilePath": "D:\\vsProjects\\arrow123\\arrow123.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yahel\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
